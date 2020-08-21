@@ -4,6 +4,8 @@
 
 Exploit / PoC for [CVE-2019-17240](https://nvd.nist.gov/vuln/detail/CVE-2019-17240).
 
+[[EDB-48746](https://www.exploit-db.com/exploits/48746)] [[PacketStorm](https://packetstormsecurity.com/files/158875/Bludit-3.9.2-Authentication-Bruteforce-Mitigation-Bypass.html)] [[WLB-2020080094](https://cxsecurity.com/issue/WLB-2020080094)]
+
 ## Usage
 
 ```
